@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.goldenoaks</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>demo_old</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>GoldenOaks</name>
+	<name>GoldenOaks_old</name>
 	<description>Library management web app</description>
 	<properties>
 		<java.version>11</java.version>
